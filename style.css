@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.colorBox {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 10px;
+    border: 2px solid #000;
+    cursor: pointer;
+}
+
+#nextButton {
+    display: none;
+    margin-top: 20px;
+}
